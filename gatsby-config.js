@@ -6,6 +6,6 @@
 
 module.exports = {
   /* Your site config here */
-  pathPrefix: "http://LeninJimenezTorres.github.io/gatsby-gitpages",
+  pathPrefix: "LeninJimenezTorres.github.io/gatsby-gitpages/",
   plugins: [],
 }
